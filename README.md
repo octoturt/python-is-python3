@@ -1,6 +1,6 @@
 # python-is-python3
 
-A script that creates a symlink to Homebrew's `python3` binary. Serves the same purpose as Ubuntu's [`python-is-python3`](https://packages.ubuntu.com/focal/python-is-python3) package.
+A script that creates a symlink to Homebrew's `python3` and `pip3` binaries. Serves the same purpose as Ubuntu's [`python-is-python3`](https://packages.ubuntu.com/focal/python-is-python3) package.
 
 ## Installation
 1. Install [Homebrew](https://docs.brew.sh/Installation) if you have not already.
